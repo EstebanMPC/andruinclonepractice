@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between px-6">
-      <video src="https://www.anduril.com/Home%20Masthead%20720.mp4" autoPlay loop playsInline id="headerVideo" className="min-h-screen min-w-max"></video>  
+      <video src="https://videos.pexels.com/video-files/2818546/2818546-uhd_2560_1440_24fps.mp4" autoPlay loop playsInline id="headerVideo" className="min-h-screen min-w-max"></video>  
       <div id="hero" className="mx-0 px-0 min-h-screen">
         <div className="min-h-screen min-h-20">
           <div className="flex items-start">
